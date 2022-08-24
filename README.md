@@ -1,16 +1,12 @@
-### Hi there 👋
+    ____________
+    < hola mundo >
+    ------------
+            \   ^__^
+            \  (oo)\_______
+                (__)\       )\/\
+                    ||----w |
+                    ||     ||
 
-<!--
-**yamilvernet/yamilvernet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Actualmente estoy trabajando en la conquista del mundo con la finalidad de establecer un imperio galáctico
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 Estoy buscando ayuda, si te interesa podés comunicarte conmigo a través de [mi correo](mailto:yamil.vernet@protonmail.com)
